@@ -1,3 +1,6 @@
+
+package Outros;
+
 public class FerramentaEletrica extends Produto {
     private int voltagem;
 
